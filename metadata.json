@@ -1,0 +1,5 @@
+{
+  "name": "Shopware 6 Insight Dashboard",
+  "description": "A modern React analytics dashboard for Shopware 6. Connects to your shop's API to visualize sales, orders, and leverage Gemini AI for business insights.",
+  "requestFramePermissions": []
+}
